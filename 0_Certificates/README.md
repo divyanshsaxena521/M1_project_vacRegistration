@@ -4,7 +4,5 @@
 ## NDG LNUX certifiacte
 ![Divyanshsaxena-NDG Linux Unhatc-certificate_page-0001](https://user-images.githubusercontent.com/98813747/152638690-a6c175be-52aa-4bd9-982d-0c20b8887542.jpg)
 
-## screenshot of github learning platform
-![Screenshot (101)](https://user-images.githubusercontent.com/98813747/152639064-8c18d457-6db5-4273-847a-aa61ed36a66a.png)
-
-## screenshot of hackerearth points
+## screenshot of hackerearth profile
+![Screenshot (103)](https://user-images.githubusercontent.com/98813747/152659005-b7e90c5c-2a9b-427e-97e3-51d49e5bddf3.png)
