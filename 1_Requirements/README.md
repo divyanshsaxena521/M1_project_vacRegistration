@@ -36,9 +36,10 @@ Verification of the data is done based on the details provided by the patient. O
 * Online registration and on field verification using local server.
 
 ## High Level Requirements
-| ID | Description | Status (Implemented/Future) |
+| ID | Description | 
+| --- | --- |
 | H01 | System should be able to access pre loaded registration data for verification | 
-| HR02 | User should be able to add new registrations |
+| H02 | User should be able to add new registrations |
 | H03 | System should recognize vaccinated patients| 
 | H04 | OTP generated verification for secure registration |
 | H05 | System should recognize invalid credentials| 
@@ -46,6 +47,7 @@ Verification of the data is done based on the details provided by the patient. O
 
 ## Low Level Requirement
 | ID | Description |
+| --- | --- |
 | L01 | Only new user must be given an option to select vaccine type | 
 | L02 | Total quantity of vaccines used must be shown by EOD | 
 | L03 | Full list of patients vaccinated must be set as output | 

@@ -6,3 +6,5 @@
 
 ## screenshot of github learning platform
 ![Screenshot (101)](https://user-images.githubusercontent.com/98813747/152639064-8c18d457-6db5-4273-847a-aa61ed36a66a.png)
+
+## screenshot of hackerearth points

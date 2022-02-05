@@ -10,7 +10,7 @@
  */
 
 #include "stdio.h"
-#include "winreg.h"
+#include "regist.h"
 
 int main(){
     
