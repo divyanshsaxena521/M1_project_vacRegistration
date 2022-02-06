@@ -1,17 +1,8 @@
-/**
- * @file vacRes.c
- * @author your name (you@domain.com)
- * @brief code for creating vaccine registration portal
- * @version 0.1
- * @date 2022-02-05
- * 
- * @copyright Copyright (c) 2022
- * 
- */
-
 #include "stdio.h"
 #include "regist.h"
 
+
+// Program begins from this section
 int main(){
     
     int status;         // A return parameter to check status of patient

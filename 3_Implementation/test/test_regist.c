@@ -34,3 +34,4 @@ void test_vaccine_status(void) {
   
   TEST_ASSERT_EQUAL(2, vaccine_status(1)); // Fail condition
 }
+

@@ -20,6 +20,7 @@ typedef struct patient{
     int vaccine_doses;
 }patient_details;
 
+// variable pd that stores details of upto 1000 patients
 patient_details pd[1000];
 
 #endif
