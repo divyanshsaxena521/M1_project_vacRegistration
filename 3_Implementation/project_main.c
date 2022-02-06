@@ -46,7 +46,7 @@ int main(){
                 break;}
             i++;
         }
-        printf("Credentials saved, log in again\n");
+        printf("Credentials saved successfully, log in again\n");
         goto aply;
     }
     else if (status==0){
@@ -108,7 +108,7 @@ int main(){
     
     }
 
-    printf("\nFinal list of patients and consumed stock of vaccines\n");
+    printf("\nFinal list of patients and vaccine consumption\n");
     int i=1;
     while(i<=1000){
         if(pd[i].aadhar!=0){
