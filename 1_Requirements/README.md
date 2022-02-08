@@ -1,14 +1,10 @@
 # Requirements
 ## Introduction
-The deployment of covid-19 vaccines in India was done in a sudden burst and thus the tracking became very complicated. 
+As we all know that the covid cases are increasing day by day in India and thus the tracking became very complicated. and we all know very well the population of india is a very high and due to this vaccination is a very big deal to be executed.
 Due to multiple input and output commands on the server, it resulted in several slow running issues and crashes. 
 The Aadhar details were used to allot the vaccines and hence it operated on a central server.
 To avoid the use of central server for all commmands, a local server will be loaded with the vaccine-registered data. 
 Local verification and completion of vaccination data will be processed locally and will be loaded back to the main server by the end of day.
-
-Each vaccine centre will operate locally to register and allot vaccines. 
-The basic registration can be done online and schedules are set as desired by the patient. Assuming a vaccination centre can vaccinate around 100 people in a day. 
-The data handling for online basic registration will be mostly done in the day time and the data acquired by the local centres of vaccinated people can be handled in the night.
 
 The local server must store the data of around 100 people where the allocated online registration data will be loaded onto the local server of that local centre. 
 Verification of the data is done based on the details provided by the patient. Once completed, the data of the vaccinated will be sent back for future use and reference.
@@ -20,8 +16,6 @@ Verification of the data is done based on the details provided by the patient. O
 * Cannot add large number of new registrations due to local server limitations.
 * Encryption is not enabled to protect the data.
 * OTP verification is not activated for new registrations.
-## SWOT Analysis 
-![SWOT analysis vaccine](https://user-images.githubusercontent.com/98813747/152639216-8898b23c-f447-45b3-9178-5063b4e7a349.png)
 
 ## 4 W's and 1 H
 ### Who
@@ -34,6 +28,10 @@ Verification of the data is done based on the details provided by the patient. O
 * Local vaccination centre.
 ### How
 * Online registration and on field verification using local server.
+* 
+## SWOT Analysis 
+![SWOT analysis vaccine](https://user-images.githubusercontent.com/98813747/152639216-8898b23c-f447-45b3-9178-5063b4e7a349.png)
+after SWOT analysis we concluded the following requirements. which are mentioned below:
 
 ## High Level Requirements
 | ID | Description | 
