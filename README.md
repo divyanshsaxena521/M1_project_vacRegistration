@@ -1,13 +1,7 @@
 # M1_project_vacRegistration
-<<<<<<< HEAD
 | Codacy | Codiga | CI | Unity |
 | --- | --- | --- | --- |
 |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f714b3f43564efb9d2fca62de1d50f0)](https://www.codacy.com/gh/divyanshsaxena521/M1_project_vacRegistration/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=divyanshsaxena521/M1_project_vacRegistration&amp;utm_campaign=Badge_Grade)|![codica code quality score](https://api.codiga.io/project/30942/score/svg)![codica code grade](https://api.codiga.io/project/30942/status/svg)|
-=======
-| Codacy | Codica | Language | CI | Unity |
-| --- | --- | --- | --- | --- |
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f714b3f43564efb9d2fca62de1d50f0)](https://www.codacy.com/gh/divyanshsaxena521/M1_project_vacRegistration/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=divyanshsaxena521/M1_project_vacRegistration&amp;utm_campaign=Badge_Grade)|![codica code quality score](https://api.codiga.io/project/30942/score/svg)![codica code grade](https://api.codiga.io/project/30942/status/svg)| ![language ](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
->>>>>>> 0ed6afdd10b1f917427eac2f2acc1b5d9a5e1944
 
 ## Aim
 * Easy and smooth vaccination registration process.
