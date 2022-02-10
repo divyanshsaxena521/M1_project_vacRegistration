@@ -1,6 +1,6 @@
 # M1_project_vacRegistration
 ![code quality score](https://api.codiga.io/project/30942/score/svg)
-![code grade](https://api.codiga.io/project/30942/score/svg)
+![code grade](https://api.codiga.io/project/30942/status/svg)
 ## Aim
 * Easy and smooth vaccination registration process.
 * Reduction of data traffic in the main server.
