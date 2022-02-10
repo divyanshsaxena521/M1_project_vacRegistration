@@ -1,7 +1,7 @@
 # M1_project_vacRegistration
-| Codacy | Codica | CI | Unity |
+| Codacy | Codica | Language | CI | Unity |
 | --- | --- | --- | --- |
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f714b3f43564efb9d2fca62de1d50f0)](https://www.codacy.com/gh/divyanshsaxena521/M1_project_vacRegistration/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=divyanshsaxena521/M1_project_vacRegistration&amp;utm_campaign=Badge_Grade)|![codica code quality score](https://api.codiga.io/project/30942/score/svg)![codica code grade](https://api.codiga.io/project/30942/status/svg)|
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f714b3f43564efb9d2fca62de1d50f0)](https://www.codacy.com/gh/divyanshsaxena521/M1_project_vacRegistration/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=divyanshsaxena521/M1_project_vacRegistration&amp;utm_campaign=Badge_Grade)|![codica code quality score](https://api.codiga.io/project/30942/score/svg)![codica code grade](https://api.codiga.io/project/30942/status/svg)| https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white |
 
 ## Aim
 * Easy and smooth vaccination registration process.
