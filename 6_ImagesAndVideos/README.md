@@ -14,9 +14,14 @@
 ## TEST CASES
 ![Screenshot (110)](https://user-images.githubusercontent.com/98813747/152678688-69869f69-62b6-46a0-b736-963c3c6fb12b.png)
 
-## Build successfull
+## c-Build successfull
+![c-build.yml](https://user-images.githubusercontent.com/98813747/153548893-22621a5e-994d-4aab-bc37-e84c68abf7c3.png)
 
-## Unity test successfull
+## main build successfull
+![main.yml](https://user-images.githubusercontent.com/98813747/153548926-64c8e160-ce3c-449c-86cf-7004d96ee1a9.png)
+
+## unity build successfull
+![unity.yml](https://user-images.githubusercontent.com/98813747/153548987-8b96a13a-c953-47cb-8201-4700eaf79c74.png)
 
 ## Issues in the code 
 ![code issues](https://user-images.githubusercontent.com/98813747/153548216-7ee3b549-1052-4a74-85d7-0d32ac468378.png)
