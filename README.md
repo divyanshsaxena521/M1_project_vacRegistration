@@ -7,7 +7,7 @@
 * Input, process, output.
 * Instruction to execute.
 * Folder description.
-* Refernces
+* References
 
 ## Introduction
 As we all know that the covid cases are increasing day by day in India and thus the tracking became very complicated. and we all know very well the population of india is a very high and due to this vaccination is a very big deal to be executed.
