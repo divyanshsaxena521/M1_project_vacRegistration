@@ -18,7 +18,7 @@ As we all know that the covid cases are increasing day by day in India and thus 
 |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f714b3f43564efb9d2fca62de1d50f0)](https://www.codacy.com/gh/divyanshsaxena521/M1_project_vacRegistration/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=divyanshsaxena521/M1_project_vacRegistration&amp;utm_campaign=Badge_Grade)|![codica code quality score](https://api.codiga.io/project/30942/score/svg)![codica code grade](https://api.codiga.io/project/30942/status/svg)|[![CI](https://github.com/divyanshsaxena521/M1_project_vacRegistration/actions/workflows/main.yml/badge.svg)](https://github.com/divyanshsaxena521/M1_project_vacRegistration/actions/workflows/main.yml)  |[![Unit Testing - Unity](https://github.com/divyanshsaxena521/M1_project_vacRegistration/actions/workflows/unity.yml/badge.svg)](https://github.com/divyanshsaxena521/M1_project_vacRegistration/actions/workflows/unity.yml)|
 
 ## Folder structure
-| 0_Certificates | 1_Requiremnts | 2_Design | 3_Implementation | 4_TestplanAndOutput | 5_Report | 6_ImagesAndVideos | 7_Others |
+| 0_Certificates | 1_Requirements | 2_Design | 3_Implementation | 4_TestplanAndOutput | 5_Report | 6_ImagesAndVideos | 7_Others |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | certification details of the student | Documents detailing requirements and research | Documents related to design of model | All codes and make file | test plans with requirements | summary of all the folders | screenshots of working projects | refrences and supporting documents |
 
