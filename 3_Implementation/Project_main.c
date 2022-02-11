@@ -1,21 +1,19 @@
 #include "stdio.h"
 #include "regist.h"
 
-
-// Program begins from this section
 int main(){
     
-    int status;         // A return parameter to check status of patient
-    long p;             // Variable that stores patient's aadhar number
-    int v1=0,v2=0;      //Vaccine type 1 and 2 quantity
+    int status;         
+    long p;             // Variable for storing patient's aadhar number
+    int v1=0,v2=0;      
     
     existregist();
     
-    int attmpt=1000;    // Variable that determines the total number of execution required by EOD
-    while(attmpt>0){
+    int attmpt=1000;    
+    while(attmpt>0){ // loop started 
         
     aply:
-    printf("\nLet's get vaccinated!!!\n");
+    printf("\nWe will fight covid together!!\n");
     printf("Enter your aadhar number:");
     scanf("%li",&p);
    
@@ -50,7 +48,7 @@ int main(){
         goto aply;
     }
     else if (status==0){
-        //Verification
+        //Verification from registered data of the people
         printf("Confirm user, enter ph.number\n");
         prv1:
         scanf("%d",&pno);
@@ -78,7 +76,7 @@ int main(){
         }
     }
     else{
-        // Verification
+        // Verification of user phone number
         printf("Confirm user, enter ph.number\n");
         prv2:
         scanf("%d",&pno);
@@ -89,7 +87,7 @@ int main(){
             goto prv2;
         }nxt2:
 
-    vstat=vaccine_status(j);        //Status of patient based on being vaccinated
+    vstat=vaccine_status(j);        
 
     if(vstat==1)
         printf("Please take your first vaccine\nYou have been vaccinated once\n");
@@ -98,7 +96,7 @@ int main(){
     else if (vstat==3)
         printf("You have completed two dozes of vaccination\n");
     
-    // Count of total number of vaccine vials used
+    
     if(pd[j].vaccine_type==1 && (vstat==1 || vstat==2))
         v1++;
     else if(pd[j].vaccine_type==2 && (vstat==1 || vstat==2))
@@ -124,3 +122,5 @@ int main(){
     printf("\nVaccine type 1(COVISHIELD):%d\n",v1);
     printf("Vaccine type 2(COVAXIN):%d\n",v2);
 }
+// Registration and verification completed
+// we will fight covid together!!
