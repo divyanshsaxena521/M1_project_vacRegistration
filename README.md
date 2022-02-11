@@ -53,5 +53,5 @@ As we all know that the covid cases are increasing day by day in India and thus 
 
 
 ## References
-[working ](https://youtu.be/ddYg9wd4BD0)
-[programming support](https://www.upgrad.com/blog/c-projects-on-github-for-programmers/)
+| --- | 
+|[Getting started ](https://youtu.be/ddYg9wd4BD0)|[code support ](https://www.upgrad.com/blog/c-projects-on-github-for-programmers/)|
