@@ -13,3 +13,15 @@
 
 ## TEST CASES
 ![Screenshot (110)](https://user-images.githubusercontent.com/98813747/152678688-69869f69-62b6-46a0-b736-963c3c6fb12b.png)
+
+## Build successfull
+
+## Unity test successfull
+
+## Issues in the code 
+![code issues](https://user-images.githubusercontent.com/98813747/153548216-7ee3b549-1052-4a74-85d7-0d32ac468378.png)
+
+
+## code Grade
+![code quality](https://user-images.githubusercontent.com/98813747/153548266-8665b5b6-3a07-4960-9a1d-9db60fe0fdf7.png)
+
