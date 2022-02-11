@@ -36,18 +36,18 @@ after SWOT analysis we concluded the following requirements. which are mentioned
 ## High Level Requirements
 | ID | Description | 
 | --- | --- |
-| H01 | System should be able to access pre loaded registration data for verification | 
-| H02 | User should be able to add new registrations |
-| H03 | System should recognize vaccinated patients| 
-| H04 | OTP generated verification for secure registration |
-| H05 | System should recognize invalid credentials| 
-| H06 | System should be updated with the time interval between two doses | 
+| HL01 | System should be able to access pre loaded registration data for verification | 
+| HL02 | User should be able to add new registrations |
+| HL03 | System should recognize vaccinated patients| 
+| HL04 | OTP generated verification for secure registration |
+| HL05 | System should recognize invalid credentials| 
+| HL06 | System should be updated with the time interval between two doses | 
 
 ## Low Level Requirement
 | ID | Description |
 | --- | --- |
-| L01 | Only new user must be given an option to select vaccine type | 
-| L02 | Total quantity of vaccines used must be shown by EOD | 
-| L03 | Full list of patients vaccinated must be set as output | 
-| L04 | Remaining and present stock of vaccines must be tracked |
-| L05 | Vaccine vials must be tracked for its use within a day | 
+| LL01 | Only new user must be given an option to select vaccine type | 
+| LL02 | Total quantity of vaccines used must be shown by EOD | 
+| LL03 | Full list of patients vaccinated must be set as output | 
+| LL04 | Remaining and present stock of vaccines must be tracked |
+| LL05 | Vaccine vials must be tracked for its use within a day | 

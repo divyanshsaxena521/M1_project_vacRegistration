@@ -1,5 +1,5 @@
-#include "stdio.h"
-#include "regist.h"
+#include "stdio.h"  // calling header file
+#include "regist.h" // calling header file 
 
 int main(){
     
@@ -33,13 +33,13 @@ int main(){
         i=1;
         while(i<=1000){
             if(pd[i].aadhar==0){
-                printf("Fill details for registration\n");
+                printf("Fill details for registration\n"); 
                 pd[i].aadhar=pd[0].aadhar;
                 printf("Enter your phone number: ");
                 scanf("%d",&pd[i].ph_number);
                 printf("Enter your age: ");
                 scanf("%d",&pd[i].age);
-                printf("Enter your secret code: ");
+                printf("Enter your secret code: "); // secret code sent to user registered mobile 
                 scanf("%d",&pd[i].secret_code);
                 break;}
             i++;
@@ -66,7 +66,7 @@ int main(){
                 case 1:
                     pd[j].vaccine_type=1;
                     break;
-                case 2:
+                case 2:                         // selection of vaccine as per user choice
                     pd[j].vaccine_type=2;
                     break;
                 default:
@@ -76,25 +76,25 @@ int main(){
         }
     }
     else{
-        // Verification of user phone number
+        // Verification of user phone number from stored data
         printf("Confirm user, enter ph.number\n");
         prv2:
         scanf("%d",&pno);
         if(pno==pd[j].ph_number)
             goto nxt2;
         else
-            printf("Wrong credentials, try again\n");
+            printf("Wrong credentials, try again\n"); // wrong details acknowlegment to user 
             goto prv2;
         }nxt2:
 
     vstat=vaccine_status(j);        
 
     if(vstat==1)
-        printf("Please take your first vaccine\nYou have been vaccinated once\n");
+        printf("Please take your first dose\nYou have been vaccinated once\n");
     else if (vstat==2)
-        printf("Please take your second vaccine\nYou have been vaccinated twice\n");
+        printf("Please take your second dose\nYou have been vaccinated twice\n"); // acknowlegement of the vaccine status
     else if (vstat==3)
-        printf("You have completed two dozes of vaccination\n");
+        printf("You have completed both doses of vaccination\n");
     
     
     if(pd[j].vaccine_type==1 && (vstat==1 || vstat==2))
