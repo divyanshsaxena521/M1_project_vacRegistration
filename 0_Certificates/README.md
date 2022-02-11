@@ -5,7 +5,7 @@
 ![Divyanshsaxena-NDG Linux Unhatc-certificate_page-0001](https://user-images.githubusercontent.com/98813747/152638690-a6c175be-52aa-4bd9-982d-0c20b8887542.jpg)
 
 ## screenshot of hackerearth points
-![Hacker earth points](https://user-images.githubusercontent.com/98813747/153469618-d951c05d-c278-4b50-af0e-8098159c6f08.png)
+![Hacker earth points](https://user-images.githubusercontent.com/98813747/153545918-3d4fdb19-4df0-4a9a-9585-4af3bc21cf99.png)
 
 ## Git-learning progess
 ![git learning progress]![Screenshot (129)](https://user-images.githubusercontent.com/98813747/153481663-865b88f7-9bef-4089-96f5-331afe35840f.png)
